@@ -1,0 +1,25 @@
+{
+  "name": "substituaAquiPeloNome",
+  "version": "1.0.0",
+  "description": "substituaAquiPeloNome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "substituaAquiPeloNome"
+  ],
+  "author": "ricciHenrique",
+  "license": "MIT",
+  "bin": {
+    "substituaAquiPeloNome": "./index.js"
+  },
+  "bugs": {
+    "url": "https://google.com"
+  },
+  "homepage": "https://google.com"
+}
