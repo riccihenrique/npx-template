@@ -1,6 +1,6 @@
 ## Criando um NPX boladão
 
-- Faça o clone do repositório `git clone https://github.com/riccihenrique/npx-template`
+- Faça o clone do repositório `git clone https://github.com/riccihenrique/npx-template.git`
 - Escolha um audio engraçado (se for utilizar um video do YouTube, pode utilizar [esse site](https://www.y2mate.com/pt69) para fazer a conversão do video para música)
 - Converta o arquivo .mp3 para ogg utilizando [esse site](https://convertio.co/pt/mp3-ogg/) (para executar no linux, é necessário que a extensão do arquivo seja .ogg)
 - Salve os dois arquivo na raiz do projeto (Lembre-se de salvar os dois com o mesmo nome). Ex: musica.mp3 e musica.ogg
